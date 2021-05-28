@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   Project Badges : 
-  1. Creator Zone : <br>
+  1. Creator Zone (Practise) : <br>
   |Calculator :[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Creator-Zone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Creator-Zone/context:python) <br>
   March 12, 2021 <br>
   |Mad-Lib Generator : [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Mad-Lib.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Mad-Lib/context:python)<br>
