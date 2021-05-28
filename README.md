@@ -1,10 +1,10 @@
 ### Hi there 👋
 
   Project Badges : 
-  1. Creator Zone :
+  1. Creator Zone : <br>
   |Calculator :[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Creator-Zone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Creator-Zone/context:python) <br>
   March 12, 2021 <br>
-  |Mad-Lib Generator : 
+  |Mad-Lib Generator : <br>
   May 28, 2021
   
   2. Lead File Generator : [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Lead_File_Generator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Lead_File_Generator/context:python) <br>
