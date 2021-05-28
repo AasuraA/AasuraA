@@ -3,7 +3,7 @@
   Project Badges : 
   1. Creator Zone :
   |Calculator :[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Creator-Zone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Creator-Zone/context:python) <br>
-  March 12, 2021 
+  March 12, 2021 <br>
   |Mad-Lib Generator : 
   May 28, 2021
   
