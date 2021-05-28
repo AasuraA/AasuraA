@@ -1,9 +1,12 @@
 ### Hi there 👋
 
   Project Badges : 
-  1. Creator Zone :[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Creator-Zone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Creator-Zone/context:python)
-  2. Lead File Generator : [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Lead_File_Generator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Lead_File_Generator/context:python)
-
+  1. Creator Zone :[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Creator-Zone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Creator-Zone/context:python)<br>
+  |Calculator : March 12, 2021 <br>
+  |Mad-Lib Generator : May 28, 2021
+  
+  2. Lead File Generator : [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AasuraA/Lead_File_Generator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AasuraA/Lead_File_Generator/context:python) <br>
+  |Uploaded : February 23, 2021 
 <!--
 **AasuraA/AasuraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
